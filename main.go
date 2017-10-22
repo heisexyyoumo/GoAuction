@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "pmweb/routers"
+	_ "GoAuction/routers"
 	"github.com/astaxie/beego"
 )
 

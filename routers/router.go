@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"pmweb/controllers"
+	"GoAuction/controllers"
 	"github.com/astaxie/beego"
 )
 
