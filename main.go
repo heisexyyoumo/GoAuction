@@ -8,6 +8,7 @@ import (
 	"GoAuction/models"
 )
 
+hello world
 func init() {
 	orm.RegisterDriver("postgres", orm.DRPostgres)
 
